@@ -30,9 +30,8 @@ The project analyze synthetic 2026 credit card transactions data, examines fraud
 
 The revised analysis estimates the following net savings under the project's assumptions
 
-**Transaction review strategy**                             **Estimated net savings** 
-Data-driven review policy                                        $25,174
-Country-risk rule                                                $11,056
+**Transaction review strategy** : Data-driven review policy, Country-risk rule 
+**Estimated net savings**: $25,174, $11,056
 
 These are estimates from synthetic data, not verified savings from a real financial institutions. The calculations assume a cost of 5$ per review and an 80% fraud-loss prevention rate. Actual results would depend on real-world transaction patterns, fraud prevalence, review costs, model performance, and operational effectiveness. 
 **Tools and Technologies**
