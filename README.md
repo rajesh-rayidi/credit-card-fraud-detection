@@ -16,7 +16,7 @@ The project analyze synthetic 2026 credit card transactions data, examines fraud
 - Estimate potential cost savings under specified review cost and fraud prevention assumptions.
 - Identify limitations and considerations for real-world implementations.
 
- **Methodolog** 
+ **Methodology** 
  The Project follows a data-driven analytical workflow:
  1. Data Preparation: Load and Prepare the transaction dataset for analysis.
  2. Exploratory data analysis: Examine transaction patterns and fraud related characteristics.
@@ -65,12 +65,11 @@ Dataset Note: The script and notebook require the CSV dataset is included in the
 - Time-based patterns are descriptive and should not automatically be interpreted as casual relationships or evidence of seasonality.
 - Real-world deployment would require additional validation, monitoring, privacy, safeguards, and operational testing.
 
-  **Conclusion**
+**Conclusion**
 This project demonstrates how exploratory data analysis, machine learning, and cost-based evaluation can support more informed credit card transaction review decisions. The findings illustrate the potential value of data-driven review prioritization while emphasizing that assumptions and model performance must be validated before applying the approach in a real financial environment.
 
 
 **Academic Information**
-
 **Team**: Lions
 **Institution**: University of the Cumberlands
 **Course**: MSDS 530 - Fundamentals of Data Science
